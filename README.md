@@ -144,8 +144,6 @@ JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_key
 Make sure to never push your .env to GitHub.
 
----
-
 💳 Stripe Test Cards
 Use this test card to simulate payments:
 
@@ -156,8 +154,12 @@ Card Number: 4242 4242 4242 4242
 Expiry: Any future date
 CVC: Any 3-digit number
 ZIP: Any 5-digit number
-📸 Screenshots
-(Add screenshots of the UI – user, cart, admin panel, etc. here)
+
+---
+
+### 📸 Screenshots
+
+---
 
 ### 📄 License
 This project is licensed under the MIT License.
