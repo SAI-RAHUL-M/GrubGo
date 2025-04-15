@@ -62,86 +62,80 @@ GrubGo/ │ ├── admin/ # Admin dashboard (React) │ ├── components/
 ---
 
 ### 🚀 Getting Started
-Prerequisites
-Node.js & npm
 
-MongoDB (local or cloud)
+#### Prerequisites
+- Node.js & npm
+- MongoDB (local or cloud)
+- Stripe account for API keys
 
-Stripe account for API keys
+---
 
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
+### 1️⃣ Clone the Repository
+
+```
 git clone https://github.com/SAI-RAHUL-M/GrubGo.git
 cd GrubGo
+```
 
-2️⃣ Install Dependencies
-Backend
-bash
-Copy
-Edit
+### 2️⃣ Install Dependencies
+
+#### Backend
+
+```
 cd backend
 npm install
-Frontend
-bash
-Copy
-Edit
+```
+
+#### Frontend
+```
 cd ../frontend
 npm install
-Admin Panel
-bash
-Copy
-Edit
+```
+
+#### Admin Panel
+```
 cd ../admin
 npm install
+```
 
-3️⃣ Run the App
+### 3️⃣ Run the App
 Start MongoDB locally or use MongoDB Atlas.
 
-Backend
-bash
-Copy
-Edit
+#### Backend
+```
 cd backend
 npm run dev
-Frontend
-bash
-Copy
-Edit
+```
+
+#### Frontend
+```
 cd ../frontend
 npm start
-Admin Panel
-bash
-Copy
-Edit
+```
+
+#### Admin Panel
+```
 cd ../admin
 npm start
-
+```
 ---
 
 ### 🔐 Environment Variables
 You'll need to set up .env files in each part of the app (especially backend). Here's a sample for the backend:
-
-env
-Copy
-Edit
+```
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_key
-Make sure to never push your .env to GitHub.
+```
 
-💳 Stripe Test Cards
+#### 💳 Stripe Test Cards
 Use this test card to simulate payments:
-
-yaml
-Copy
-Edit
+```
 Card Number: 4242 4242 4242 4242
 Expiry: Any future date
 CVC: Any 3-digit number
 ZIP: Any 5-digit number
-
+```
 ---
 
 ### 📸 Screenshots
