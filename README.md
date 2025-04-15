@@ -74,7 +74,7 @@ GrubGo/
 
 ---
 
-🚀 Getting Started
+### 🚀 Getting Started
 Prerequisites
 Node.js & npm
 
@@ -133,7 +133,7 @@ npm start
 
 ---
 
-####🔐 Environment Variables
+### 🔐 Environment Variables
 You'll need to set up .env files in each part of the app (especially backend). Here's a sample for the backend:
 
 env
@@ -159,5 +159,5 @@ ZIP: Any 5-digit number
 📸 Screenshots
 (Add screenshots of the UI – user, cart, admin panel, etc. here)
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License.
