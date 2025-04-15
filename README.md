@@ -57,20 +57,7 @@ GrubGo is a full-stack food delivery application built with the MERN stack (Mong
 
 ### 🗂 Folder Structure
 
-GrubGo/
-│
-├── frontend/       # User-facing React app
-│   └── ...         
-│
-├── admin/          # Admin dashboard (React)
-│   └── ...         
-│
-├── backend/        # Node.js + Express + MongoDB API
-│   ├── routes/
-│   ├── controllers/
-│   └── models/
-│
-└── README.md
+GrubGo/ │ ├── admin/ # Admin dashboard (React) │ ├── components/ # React components for admin panel │ ├── context/ # React context for state management │ ├── pages/ # React pages for admin │ └── ... # Additional files │ ├── backend/ # Node.js + Express + MongoDB API │ ├── routes/ # API route handlers │ ├── controllers/ # Logic for handling API requests │ └── models/ # MongoDB models (schemas) │ └── README.md # Project overview and setup guide
 
 ---
 
