@@ -1,6 +1,6 @@
 # 📦 GrubGo – Full Stack Food Delivery App
 
-GrubGo is a full-stack food delivery application built with the MERN stack (MongoDB, Express, ReactJS, Node.js). It allows users to browse restaurants, add items to the cart, and complete their purchase via a **Stripe-powered payment gateway**. An **admin dashboard** allows real-time management of orders and user activities.
+GrubGo is a full-stack food delivery application built with the MERN stack (MongoDB, Express, ReactJS, Node.js). It allows users to browse menu items, add items to the cart, and complete their purchase via a **Stripe-powered payment gateway**. An **admin dashboard** allows real-time management of orders and user activities.
 
 ---
 
