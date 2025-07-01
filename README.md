@@ -164,6 +164,7 @@ ZIP: Any 5-digit number
 ![6](results/6.png)
 
 ---
+### 📄 License
 
 This project is licensed under the MIT License.
 You are permitted to use, modify, and distribute this software in accordance with the terms of the license.
