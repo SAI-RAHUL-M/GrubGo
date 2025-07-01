@@ -158,5 +158,6 @@ ZIP: Any 5-digit number
 
 ---
 
-### 📄 License
 This project is licensed under the MIT License.
+You are permitted to use, modify, and distribute this software in accordance with the terms of the license.
+For any use, we kindly request that you contact us in advance.
